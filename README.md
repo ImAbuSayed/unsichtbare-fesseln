@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unsichtbare-fesseln/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Unsichtbare Fesseln](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unsichtbare-fesseln/) |
+| **Get License** | [License this song: Unsichtbare Fesseln](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unsichtbare-fesseln/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `42f5eaae88fe571fbe022185eac5d69798b222eb92d38e77471e4ac690b47211` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
