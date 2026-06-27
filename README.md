@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unsichtbare-fesseln/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Unsichtbare Fesseln](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unsichtbare-fesseln/) |
+| **Get License** | [Commercial Licensing for Unsichtbare Fesseln](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unsichtbare-fesseln/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, steig ein in den Wagen, lass uns flieh'n vor dem Licht
+> Unsichtbare Fesseln zieh'n mich, wehren kann ich mich nicht
+> Dein Blick ist wie Feuer, er gibt mir das heftigste Fieber
+> Zieh mich tiefer in den Rausch, Baby, immer und immer wieder
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
